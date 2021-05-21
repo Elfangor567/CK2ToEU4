@@ -2,12 +2,9 @@
 #define OUT_MONUMENT_H
 
 #include "../../CK2World/World.h"
-#include "../EU4World.h"
-#include "../../CK2World/Provinces/Province.h"
 #include "../../CK2World/Wonders/Wonder.h"
-#include <fstream>
 #include "OSCompatibilityLayer.h"
-#include <ostream>
+#include "../../Configuration/Configuration.h"
 
 namespace EU4 
 {
